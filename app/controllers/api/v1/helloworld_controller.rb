@@ -1,4 +1,4 @@
-class Api::V1::HelloworldsController < ApplicationController
+class Api::V1::HelloworldController < ApplicationController
   def index
     @hello = Helloworld.find(rand(1..5))
 

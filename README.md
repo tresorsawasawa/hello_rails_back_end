@@ -57,12 +57,6 @@ rails db:seed
 rails s
 ```
 
-- To run the webpack server
-
-```
-./bin/webpack-dev-server
-```
-
 ```
 Visit http://localhost:3000/ in your browser.
 ```
