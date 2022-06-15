@@ -61,9 +61,14 @@ rails s
 Visit http://localhost:3000/ in your browser.
 ```
 
-
 ```
 Visit the API: http://localhost:3000/api/v1/greetings in your browser.
+```
+
+- Once you ran the rails server, the frontend server will run on:
+
+```
+ http://localhost:3001/ 
 ```
 
 ## Author
